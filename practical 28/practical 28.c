@@ -44,8 +44,10 @@ int main()
     printf("Author: %s\n", author);
     printf("Price: %.2f\n", price);
     printf("Issued: %s\n", issued ? "Yes" : "No");
+    printf("rushit shah 25ce110");
 
 
 
     return 0;
 }
+
