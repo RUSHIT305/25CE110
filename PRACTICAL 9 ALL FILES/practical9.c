@@ -32,4 +32,6 @@ void main()
      printf("total amount = &d\n", totalamount);
         printf("final amount =%d\n",finalamount);
         printf("discount amount =%d\n", discount );
+    printf("rushit shah 25ce110");
 }
+
