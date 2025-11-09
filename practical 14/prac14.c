@@ -44,7 +44,9 @@ void main()
 				break;
 
 		}
+		printf("rushit shah 25ce110");
 	}
 	while(choice!=0);
 
 }
+
