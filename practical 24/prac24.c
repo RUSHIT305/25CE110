@@ -212,4 +212,6 @@ void str_cap(char string[])
         }
     }
     printf("Capitalized String: %s\n", string);
+    printf("rushit shah 25ce110");
 }
+
