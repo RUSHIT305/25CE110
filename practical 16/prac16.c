@@ -8,8 +8,9 @@ void main()
     scanf("%d",&matchsticks);
     com=5-matchsticks;
     printf("computer choice = %d",com);
-
+printf("rushit shah 25ce110");
      }
 
 
 }
+
