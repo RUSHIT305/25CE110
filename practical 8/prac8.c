@@ -8,5 +8,6 @@ void main()
 	scanf("%d",&age);
 	printf("\n");
 	(age>=18)? printf("You are Eligible.") : printf("You are not Eligible.");
-
+     printf("rushit shah 25ce110");
 }
+
