@@ -76,4 +76,6 @@ void display(float *arr, int items)
         printf("%.2f ", arr[i]);
     }
     printf("\n");
+    printf("rushit shah 25ce110");
 }
+
