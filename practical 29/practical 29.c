@@ -79,6 +79,7 @@ void print_details(struct team t)
     printf("Coach Name: %s\n", t.coach_info.name);
     printf("Coach Age: %d\n", t.coach_info.age);
     printf("Coach Experience: %d years\n", t.coach_info.experience);
+    printf("rushit shah 25ce110");
 }
 
 int is_duplicate(struct team teams[], int count, char name[])
@@ -90,3 +91,4 @@ int is_duplicate(struct team teams[], int count, char name[])
     }
     return 0;
 }
+
