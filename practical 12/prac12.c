@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
+
 void main()
 {
  int i;
@@ -9,6 +9,8 @@ void main()
 	   printf(" -> Special Edition");
 	   }
 	   printf("\n");
+	   printf("rushit shah 25ce110");
       }
-      getch();
+      
 }
+
