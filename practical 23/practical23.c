@@ -61,7 +61,8 @@ int main() {
     int profit5 = maxProfit(prices5, size5);
     printf("Test Case 5 Input: [5, 5, 5, 5, 5]\n");
     printf("Maximum Profit: %d\n\n", profit5);
-
+     printf("rushit shah 25ce110");
     return 0;
 
 }
+
