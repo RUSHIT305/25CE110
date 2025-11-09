@@ -19,6 +19,8 @@ int main(){
     }
     else{
         printf("input invalid");
+        printf("rushit shah 25ce110");
     }
         return 0;
     }
+
