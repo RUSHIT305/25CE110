@@ -7,8 +7,9 @@ b=90;
 a=l*b;
 p=2*(l+b);
 printf("area= %d\n", a);
-printf("peramiter= %d", p);
-printf("rushit shah 25ce110");
+printf("peramiter= %d\n", p);
+printf("rushit shah 25ce110\n");
 }
+
 
 
