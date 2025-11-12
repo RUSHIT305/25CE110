@@ -13,6 +13,7 @@ long int lw=lrw*w/100;
 long int ilw=w-lw;
 printf("illetrat men is :%ld\n",ilm);
 printf("illetrat women is :%ld\n",ilw);
-  printf("rushit shah 25ce110");
+  printf("rushit shah 25ce110\n");
 }
+
 
