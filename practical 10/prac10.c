@@ -55,16 +55,17 @@ void main()
             break;
 
         case 2:
-            printf("\n\nBill = %d",bill);
+            printf("\n\nBill = %d\n",bill);
             break;
 
         default:
-            printf("Invalid Choice!");
+            printf("Invalid Choice!\n");
             goto m;
             break;
     }
-printf("rushit shah 25ce110");
+printf("rushit shah 25ce110\n");
 
 
 }
+
 
