@@ -9,9 +9,10 @@
  printf("your entry is free");
  }
  else{
- printf("your entry price is : %d",ticket);
-  printf("rushit shah 25ce110");
+ printf("your entry price is : %d\n",ticket);
+  printf("rushit shah 25ce110\n");
  }
  return 0;
  }
+
 
